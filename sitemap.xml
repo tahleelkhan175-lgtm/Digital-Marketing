@@ -3,7 +3,7 @@
   
   <!-- Homepage -->
   <url>
-    <loc>https://YOUR-VERCEL-DOMAIN.vercel.app/</loc>
+    <loc>https://digital-marketing-static-website.vercel.app/</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -11,7 +11,7 @@
 
   <!-- Services Page -->
   <url>
-    <loc>https://YOUR-VERCEL-DOMAIN.vercel.app/services.html</loc>
+    <loc>https://digital-marketing-static-website.vercel.app/services.html</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -19,7 +19,7 @@
 
   <!-- Contact Page -->
   <url>
-    <loc>https://YOUR-VERCEL-DOMAIN.vercel.app/contact.html</loc>
+    <loc>https://digital-marketing-static-website.vercel.app/contact.html</loc>
     <lastmod>2026-08-20</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
