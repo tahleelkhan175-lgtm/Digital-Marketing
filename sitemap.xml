@@ -2,27 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <!-- Homepage -->
-  <url>
-    <loc>https://digital-marketing-static-website.vercel.app/</loc>
-    <lastmod>2026-08-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  https://digital-marketing-five-livid.vercel.app/index.html
 
   <!-- Services Page -->
-  <url>
-    <loc>https://digital-marketing-static-website.vercel.app/services.html</loc>
-    <lastmod>2026-08-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
+  https://digital-marketing-five-livid.vercel.app/services.html
 
   <!-- Contact Page -->
-  <url>
-    <loc>https://digital-marketing-static-website.vercel.app/contact.html</loc>
-    <lastmod>2026-08-20</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
-  </url>
+ https://digital-marketing-five-livid.vercel.app/contact.html
 
 </urlset>
